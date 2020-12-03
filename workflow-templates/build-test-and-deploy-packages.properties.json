@@ -1,0 +1,8 @@
+{
+    "name": "Build, Test, and Deploy .NET 5 Packages Workflow",
+    "description": "Build, Test, and Deploy .NET 5 Packages CI/CD workflow template.",
+    "iconName": "build-test-and-deploy-packages-icon",
+    "categories": [
+        ".NET"
+    ]
+}
